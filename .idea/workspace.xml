@@ -1,31 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b2f8bf7-ccb7-4ad2-9747-a1fa10614f79" name="Changes" comment="" />
+    <list default="true" id="3b2f8bf7-ccb7-4ad2-9747-a1fa10614f79" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/KararDestekProje.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/KararDestekProje.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decision/make_recommendation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/decision/make_recommendation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modeling/explain_lime.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modeling/explain_lime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modeling/train_xgb.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modeling/train_xgb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modeling/train_xgb_tuned.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modeling/train_xgb_tuned.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modeling/train_xgb_tuned_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modeling/train_xgb_tuned_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pipeline/build_dataset_step1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pipeline/build_dataset_step1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pipeline/build_dataset_step2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pipeline/build_dataset_step2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/preprocessing/clean.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocessing/clean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/preprocessing/load.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocessing/load.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/metrics.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Omercanonen&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Omercanonen/KararDestekProje.git&quot;,
+    &quot;accountId&quot;: &quot;50deca88-bf54-42a4-970a-de2793313a2d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="34yFU8DCLzCFQd9BI37EIcIBv2x" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/omerc/PycharmProjects/KararDestekProje/data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\omerc\PycharmProjects\KararDestekProje\data" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,7 +90,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762177918108</updated>
-      <workItem from="1762177919231" duration="2000" />
+      <workItem from="1762177919231" duration="6788000" />
+      <workItem from="1762193719962" duration="6171000" />
+      <workItem from="1762200659235" duration="1825000" />
+      <workItem from="1762256121319" duration="4114000" />
+      <workItem from="1762265289306" duration="303000" />
     </task>
     <servers />
   </component>
