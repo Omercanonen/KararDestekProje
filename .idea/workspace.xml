@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b2f8bf7-ccb7-4ad2-9747-a1fa10614f79" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/KararDestekProje.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/KararDestekProje.iml" afterDir="false" />
+    <list default="true" id="3b2f8bf7-ccb7-4ad2-9747-a1fa10614f79" name="Changes" comment="a">
+      <change afterPath="$PROJECT_DIR$/src/decision/make_decision_topsis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modeling/train_catboost.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decision/make_recommendation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/decision/make_recommendation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modeling/explain_lime.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modeling/explain_lime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modeling/train_xgb.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modeling/train_xgb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modeling/train_xgb_tuned.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modeling/train_xgb_tuned.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modeling/train_xgb_tuned_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/modeling/train_xgb_tuned_v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pipeline/build_dataset_step1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pipeline/build_dataset_step1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pipeline/build_dataset_step2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pipeline/build_dataset_step2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/preprocessing/clean.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocessing/clean.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/preprocessing/load.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocessing/load.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/metrics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,23 +44,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/omerc/PycharmProjects/KararDestekProje/data&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.make_decision_topsis.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/omerc/PycharmProjects/KararDestekProje/data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\omerc\PycharmProjects\KararDestekProje\data" />
@@ -95,10 +87,39 @@
       <workItem from="1762200659235" duration="1825000" />
       <workItem from="1762256121319" duration="4114000" />
       <workItem from="1762265289306" duration="303000" />
+      <workItem from="1762266101890" duration="827000" />
+      <workItem from="1762281331851" duration="2089000" />
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <option name="closed" value="true" />
+      <created>1762266254611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762266254611</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/KararDestekProje$make_decision_topsis.coverage" NAME="make_decision_topsis Coverage Results" MODIFIED="1762283396258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/decision" />
   </component>
 </project>
